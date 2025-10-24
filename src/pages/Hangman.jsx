@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useCallback } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { useScores } from '../context/ScoreContext.jsx'; 
-import GameOverModal from '../components/GameOverModal.jsx'; 
+import GameOverModal from '../Components/GameOverModal.jsx'; 
 
 // --- CONFIGURATION ---
 const WORD_LIST = [
