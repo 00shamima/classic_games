@@ -5,7 +5,7 @@ import { ScoreProvider } from './context/ScoreContext';
 import Home from './pages/Home';
 import Hangman from './pages/Hangman';
 import MemoryMatch from './pages/MemoryMatch';
-import ScoreBoard from './components/ScoreBoard'; 
+import ScoreBoard from './Components/ScoreBoard'; 
 import GameRoutesWrapper from './components/GameRoutesWrapper'; 
 // ➡️ IMPORT NEW COMPONENT
 import WordSearch from './pages/WordSearch'; 
