@@ -6,9 +6,9 @@ import Home from './pages/Home';
 import Hangman from './pages/Hangman';
 import MemoryMatch from './pages/MemoryMatch';
 import ScoreBoard from './Components/ScoreBoard'; 
-import GameRoutesWrapper from './components/GameRoutesWrapper'; 
+import GameRoutesWrapper from './Components/GameRoutesWrapper'; 
 // ➡️ IMPORT NEW COMPONENT
-import WordSearch from './pages/WordSearch'; 
+import WordSearch from './pages/WordSearch';
 
 
 function App() {
